@@ -39,8 +39,8 @@ Ich habe seit 2022 autodidaktisch Softwareentwicklung gelernt und mich in eigene
 ---
 
 ## 🌍 **Sprachen**  
-- **Deutsch:** Muttersprache  
-- **Englisch:** B2  
+- **Deutsch**   
+- **Englisch**  
 
 ---
 
