@@ -24,10 +24,11 @@ Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwi
 
 ### **Testing ⚒️**
 - Jest (JavaScript und React), JUnit (Java und Spring)
-- Integrationstests als nächstes Ziel  
+- Integrationstests (Backend-Endpunkte mit Postman) 
 
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Tools 🛠️**
 - Docker, Git, Figma, npm
