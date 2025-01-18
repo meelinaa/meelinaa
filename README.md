@@ -1,11 +1,7 @@
 # 👩‍💻 Melina – Fullstack-, Frontend- & Backend-Entwicklerin 🚀  
 
-Hi! Ich bin Melina, eine vielseitige Entwicklerin mit einem Fokus auf **Frontend**, **Backend** und allem dazwischen. Mit einem kreativen Blick für Details und einer Vorliebe für strukturierte Lösungen bringe ich Design und Code zusammen, um beeindruckende Projekte zu realisieren. Ich bin bereit, überall anzupacken, egal ob im Frontend, Backend oder Fullstack-Bereich.  
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meelinaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hi! Ich bin Melina, eine vielseitige Entwicklerin mit einem Fokus auf **Frontend**, **Backend** und allem dazwischen. Mit einem kreativen Blick für Details und einer Vorliebe für strukturierte Lösungen bringe ich Design und Code zusammen, um beeindruckende Projekte zu realisieren.  
+Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwicklerin**, um innovative Lösungen in einem dynamischen Team umzusetzen.  
 
 ---
 
@@ -53,14 +49,32 @@ Hi! Ich bin Melina, eine vielseitige Entwicklerin mit einem Fokus auf **Frontend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-
 ### **Zukünftige Ziele 🚀**
 - Spring Security, fortgeschrittene Sicherheitskonzepte, weitere Einarbeitung in C# und .NET sowie die Optimierung meines aktuellen Tech-Stacks
 - React Testing Library (RTL) für React, JUnit für Java und Spring 
 
 ---
 
-## 🌟 **Soft Skills**
+## 🚀 **Projekte**
+
+### **Broker Auro**
+Ich entwickle aktuell **Broker Auro**, eine Trading-App mit folgenden Features:  
+- **Live-Daten** durch Web-Scraping  
+- **Frontend-Funktionen** zum Kaufen und Verkaufen von Aktien  
+- **Portfolio-Analysen** zur Darstellung der Performance  
+- Anzeige von **Transaktionen** und **Portfolio-Details** in einer übersichtlichen Ansicht  
+- Integration von **Unit-Tests** für Stabilität und Qualität  
+
+👉 [Zum Repository](https://github.com/meelinaa/Auro)
+
+---
+
+## 🧠 **Erfahrung**  
+Ich habe seit 2022 autodidaktisch Softwareentwicklung gelernt und mich in eigene Projekte vertieft. Dabei habe ich praktische Erfahrung in **Frontend-, Backend- und Fullstack-Entwicklung** gesammelt und meinen Tech-Stack kontinuierlich erweitert.
+
+---
+
+## 🌟 **Soft Skills & Arbeitsweise**
 
 - **Schnelle Auffassungsgabe:** Ich eigne mir neue Technologien und Konzepte in kürzester Zeit effektiv und nachhaltig an.  
 - **Kreativität:** Ich entwickle innovative und durchdachte Lösungen, die sowohl technisch als auch visuell überzeugen.  
@@ -73,52 +87,20 @@ Hi! Ich bin Melina, eine vielseitige Entwicklerin mit einem Fokus auf **Frontend
 
 ---
 
-## 🧠 **Erfahrung**  
-Ich habe seit 2022 autodidaktisch Softwareentwicklung gelernt und mich in eigene Projekte vertieft. Dabei habe ich praktische Erfahrung in **Frontend-, Backend- und Fullstack-Entwicklung** gesammelt und meinen Tech-Stack kontinuierlich erweitert.
+## 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meelinaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🌍 **Sprachen**  
-- **Deutsch**   
-- **Englisch**  
+## 🌍 **Sprachen**
+- **Deutsch:** Muttersprache  
+- **Englisch:** B2  
 
 ---
 
-## 🧠 **Arbeitsweise**  
-- **Agil:** Fokus auf iterative Prozesse, Teamarbeit und kontinuierliche Verbesserung  
-- **Lösungsorientiert:** Herausforderungen effizient und pragmatisch meistern  
-- **Neugierig:** Stets motiviert, neue Technologien und Arbeitsweisen zu erlernen  
-
----
-
-## 🚀 **Woran ich gerade arbeite**  
-Ich entwickle aktuell **Broker Auro**, eine Trading-App mit folgenden Features:  
-- **Live-Daten** durch Web-Scraping  
-- **Frontend-Funktionen** zum Kaufen und Verkaufen von Aktien  
-- **Portfolio-Analysen** zur Darstellung der Performance  
-- Anzeige von **Transaktionen** und **Portfolio-Details** in einer übersichtlichen Ansicht  
-- Integration von **Unit-Tests** für Stabilität und Qualität  
-
-👉 [Zum Repository](https://github.com/meelinaa/Auro)
-
----
-
-## 💼 **Ich suche...**  
-... eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwicklerin**.  
-Egal, ob ich im Frontend intuitive Oberflächen gestalte oder im Backend robuste Systeme entwickle, ich bringe Herzblut und Engagement mit. Ich freue mich darauf, innovative Lösungen in einem dynamischen Team umzusetzen!  
-
----
-
-## 📬 **Kontakt**  
+## 📬 **Kontakt**
 - **E-Mail:** [melinakiefer@hotmail.de](mailto:melinakiefer@hotmail.de)  
 - **GitHub:** [meelinaa](https://github.com/meelinaa)  
-
----
-
-## 🎉 **Fun Facts über mich**  
-- Ich liebe es, neue Dinge auszuprobieren und Herausforderungen kreativ zu lösen. Langeweile kennt man bei mir nicht!
-- Roadtrips und die Freiheit der offenen Straße faszinieren mich, aber ich plane sie lieber bis ins kleinste Detail. 
-- Wenn ich mich einmal für etwas begeistere, dann richtig.
 
 ---
 
