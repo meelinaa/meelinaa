@@ -30,12 +30,13 @@ Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwi
 ![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### **Tools 🛠️**
-- Docker, Git, Figma  
+- Docker, Git, Figma, npm
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### **Agile Methoden 👥**
 - Verständnis von Scrum und iterativer Entwicklung, bereit, praktische Erfahrungen zu vertiefen.
