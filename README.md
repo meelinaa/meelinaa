@@ -8,7 +8,7 @@ Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwi
 ## 🔧 **Tech-Stack**
 
 ### **Frontend 💻**
-- HTML, CSS, JavaScript ES6+, React (Router, Redux, Query)
+- HTML, CSS, JavaScript, React
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
