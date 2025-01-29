@@ -94,12 +94,6 @@ Ich habe seit 2022 autodidaktisch Softwareentwicklung gelernt und mich in eigene
 
 ---
 
-## 🌍 **Sprachen**
-- **Deutsch:** Muttersprache  
-- **Englisch:** B2  
-
----
-
 ## 📬 **Kontakt**
 - **E-Mail:** [melinakiefer@hotmail.de](mailto:melinakiefer@hotmail.de)  
 - **GitHub:** [meelinaa](https://github.com/meelinaa)  
