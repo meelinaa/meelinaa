@@ -3,7 +3,6 @@
 Hi! Ich bin Melina, eine vielseitige Entwicklerin mit einem Fokus auf **Frontend**, **Backend** und allem dazwischen. Mit einem kreativen Blick für Details und einer Vorliebe für strukturierte Lösungen bringe ich Design und Code zusammen, um beeindruckende Projekte zu realisieren.  
 Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwicklerin**, um innovative Lösungen in einem dynamischen Team umzusetzen.  
 
----
 
 ## 🔧 **Tech-Stack**
 
@@ -55,7 +54,6 @@ Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwi
 - Spring Security, fortgeschrittene Sicherheitskonzepte, weitere Einarbeitung in C# und .NET sowie die Optimierung meines aktuellen Tech-Stacks
 - React Testing Library (RTL) für React, JUnit für Java und Spring 
 
----
 
 ## 🚀 **Projekte**
 
@@ -69,12 +67,10 @@ Ich entwickle aktuell **Broker Auro**, eine Trading-App mit folgenden Features:
 
 👉 [Zum Repository](https://github.com/meelinaa/Auro)
 
----
 
 ## 🧠 **Erfahrung**  
 Ich habe seit 2022 autodidaktisch Softwareentwicklung gelernt und mich in eigene Projekte vertieft. Dabei habe ich praktische Erfahrung in **Frontend-, Backend- und Fullstack-Entwicklung** gesammelt und meinen Tech-Stack kontinuierlich erweitert.
 
----
 
 ## 🌟 **Soft Skills & Arbeitsweise**
 
@@ -87,12 +83,10 @@ Ich habe seit 2022 autodidaktisch Softwareentwicklung gelernt und mich in eigene
 - **Eigeninitiative:** Ich übernehme Verantwortung und bringe Projekte von der Idee bis zur Umsetzung voran.  
 - **Organisation:** Auch bei parallelen Projekten arbeite ich strukturiert und verliere nie den Fokus auf das Wesentliche.  
 
----
 
 ## 📊 **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meelinaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
 ## 📬 **Kontakt**
 - **E-Mail:** [melinakiefer@hotmail.de](mailto:melinakiefer@hotmail.de)  
