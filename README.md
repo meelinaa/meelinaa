@@ -57,8 +57,10 @@ Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwi
 
 ## 🚀 **Projekte**
 
-### **Broker Auro**
-Ich entwickle aktuell **Broker Auro**, eine Trading-App mit folgenden Features:  
+### 📈 **Auro - Trading Plattform**  
+Ich habe **Broker Auro**, eine interaktive Trading-Anwendung zur Verwaltung von Aktienportfolios, entwickelt. Die Anwendung ermöglicht es Nutzern, Aktien zu suchen, deren Live-Daten abzurufen sowie Transaktionen mit fiktivem Geld durchzuführen.  
+
+**Features:**  
 - **Live-Daten** durch Web-Scraping  
 - **Frontend-Funktionen** zum Kaufen und Verkaufen von Aktien  
 - **Portfolio-Analysen** zur Darstellung der Performance  
@@ -66,6 +68,19 @@ Ich entwickle aktuell **Broker Auro**, eine Trading-App mit folgenden Features:
 - Integration von **Unit-Tests** für Stabilität und Qualität  
 
 👉 [Zum Repository](https://github.com/meelinaa/Auro)
+
+### 💓 **Echo – Health Tracker**  
+Ich entwickle aktuell **Echo**, eine Fullstack-Anwendung zur Erfassung und Analyse von Gesundheitsdaten. Die App ermöglicht es Nutzern, ihre täglichen mentalen und körperlichen Werte zu speichern und langfristig auszuwerten.  
+
+**Features:**  
+- **Erfassung** von täglichen Gesundheitsdaten (Schlaf, Sport, Gedanken, Stimmung etc.)  
+- **Detaillierte Analysen** zur Auswertung und Visualisierung von Entwicklungen  
+- **Backend mit Java & Spring Boot** für schnelle und sichere Datenverarbeitung  
+- **Datenbank mit PostgreSQL (Docker-Container)** zur Speicherung und Verwaltung  
+- **Frontend mit React** für eine intuitive Benutzererfahrung (in Entwicklung)  
+- **100% Test Coverage** mit JUnit für maximale Stabilität  
+
+👉 [Zum Repository](https://github.com/meelinaa/Echo)
 
 
 ## 🧠 **Erfahrung**  
