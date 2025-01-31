@@ -1,3 +1,5 @@
+<img src="https://github.com/meelinaa/Auro/blob/main/README-images/banner.png" alt="Beschreibung" style="width: 100%; display: block;">
+
 # 👩‍💻 Melina – Fullstack-, Frontend- & Backend-Entwicklerin 🚀  
 
 Hi! Ich bin Melina, eine vielseitige Entwicklerin mit einem Fokus auf **Frontend**, **Backend** und allem dazwischen. Mit einem kreativen Blick für Details und einer Vorliebe für strukturierte Lösungen bringe ich Design und Code zusammen, um beeindruckende Projekte zu realisieren.  
@@ -74,17 +76,13 @@ Ich entwickle aktuell **Echo**, eine Fullstack-Anwendung zur Erfassung und Analy
 
 **Features:**  
 - **Erfassung** von täglichen Gesundheitsdaten (Schlaf, Sport, Gedanken, Stimmung etc.)  
-- **Detaillierte Analysen** zur Auswertung und Visualisierung von Entwicklungen  
 - **Backend mit Java & Spring Boot** für schnelle und sichere Datenverarbeitung  
-- **Datenbank mit PostgreSQL (Docker-Container)** zur Speicherung und Verwaltung  
-- **Frontend mit React** für eine intuitive Benutzererfahrung (in Entwicklung)  
-- **100% Test Coverage** mit JUnit für maximale Stabilität  
+- **Datenbank mit PostgreSQL (Docker-Container)** zur Speicherung und Verwaltung
+- Integration von **Unit-Tests** für Stabilität und Qualität 
+- **Frontend mit React** für eine intuitive Benutzererfahrung (in Entwicklung)
+- **Detaillierte Analysen** zur Auswertung und Visualisierung von Entwicklungen (in Entwicklung)
 
 👉 [Zum Repository](https://github.com/meelinaa/Echo)
-
-
-## 🧠 **Erfahrung**  
-Ich habe seit 2022 autodidaktisch Softwareentwicklung gelernt und mich in eigene Projekte vertieft. Dabei habe ich praktische Erfahrung in **Frontend-, Backend- und Fullstack-Entwicklung** gesammelt und meinen Tech-Stack kontinuierlich erweitert.
 
 
 ## 🌟 **Soft Skills & Arbeitsweise**
