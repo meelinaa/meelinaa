@@ -30,7 +30,7 @@ Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Tools 🛠️**
-- Docker, Git, Figma
+- Docker, Git, GitHub, Figma
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -50,9 +50,10 @@ Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwi
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Zukünftige Ziele 🚀**
-- Spring Security, fortgeschrittene Sicherheitskonzepte, weitere Einarbeitung in C# und .NET sowie die Optimierung meines aktuellen Tech-Stacks
-- React Testing Library (RTL) für React, JUnit für Java und Spring 
-
+- Einarbeitung in Spring Security und fortgeschrittene Sicherheitskonzepte
+- Weitere Einarbeitung in C# und .NET
+- Optimierung meines aktuellen Tech-Stacks
+- Einarbeitung in React Testing Library für React
 
 ## 🚀 **Projekte**
 
