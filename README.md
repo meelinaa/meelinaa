@@ -2,9 +2,7 @@
 
 # 👩‍💻 Melina – Fullstack-, Frontend- & Backend-Entwicklerin 🚀  
 
-Hi! Ich bin Melina, eine vielseitige Entwicklerin mit einem Fokus auf **Frontend**, **Backend** und allem dazwischen. Mit einem kreativen Blick für Details und einer Vorliebe für strukturierte Lösungen bringe ich Design und Code zusammen, um beeindruckende Projekte zu realisieren.  
-Ich suche eine spannende Position als **Fullstack-, Frontend- oder Backend-Entwicklerin**, um innovative Lösungen in einem dynamischen Team umzusetzen.  
-
+Hi! Ich bin Melina, eine Entwicklerin mit Begeisterung für Frontend, Backend und alles, was dazwischen liegt. Mit einem kreativen Blick für Details und einer Vorliebe für strukturierte Lösungen kombiniere ich Design und Code, um funktionale und ästhetische Anwendungen zu erschaffen. Ich liebe es, neue Technologien zu entdecken, innovative Projekte umzusetzen und mich stetig weiterzuentwickeln.
 
 ## 🔧 **Tech-Stack**
 
@@ -120,7 +118,3 @@ Ich entwickle aktuell **Echo**, eine Fullstack-Anwendung zur Erfassung und Analy
 ## 📬 **Kontakt**
 - **E-Mail:** [melinakiefer@hotmail.de](mailto:melinakiefer@hotmail.de)  
 - **GitHub:** [meelinaa](https://github.com/meelinaa)  
-
----
-
-Ich freue mich darauf, gemeinsam spannende Projekte zu entwickeln und kreative Lösungen umzusetzen! 😊
