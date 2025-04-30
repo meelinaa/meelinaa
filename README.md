@@ -94,6 +94,5 @@ Ich entwickle aktuell **Echo**, eine Fullstack-Anwendung zur Erfassung und Analy
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meelinaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📬 **Kontakt**
-- **E-Mail:** [melinakiefer@hotmail.de](mailto:melinakiefer@hotmail.de)  
+## 📬 **Kontakt** 
 - **GitHub:** [meelinaa](https://github.com/meelinaa)  
