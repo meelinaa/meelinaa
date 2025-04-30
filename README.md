@@ -37,12 +37,6 @@ Hi! Ich bin Melina, eine Entwicklerin mit Begeisterung für Frontend, Backend un
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### **Agile Methoden 👥**
-- Verständnis von Scrum und iterativer Entwicklung, bereit, praktische Erfahrungen zu vertiefen.
-
-![Scrum](https://img.shields.io/badge/Scrum-%23117AC9.svg?style=for-the-badge&logo=Scrum&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%23007ACC.svg?style=for-the-badge&logo=Agile&logoColor=white)
-
 ### **Sonstiges ✨**
 - Grundkenntnisse in Python und C#
 
