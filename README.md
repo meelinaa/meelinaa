@@ -6,30 +6,50 @@ Hi! Ich bin Melina, eine Entwicklerin mit Begeisterung für Frontend, Backend un
 
 ## 🔧 **Tech-Stack**
 
-### **Frontend 💻**
-- HTML, CSS, JavaScript, React
+### **C# / .NET**
+- C#, .NET, Blazor  
+- Erfahrungen mit WebAssembly, Server-Side Blazor, Razor Components
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+
+
+### **Java / Spring**
+- Java, Spring Boot, Spring Web, JPA, Lombok  
+- REST-APIs, ORM, Datenbankanbindung
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+
+### **Webtechnologien**
+- HTML, CSS, JavaScript, React  
+- Erfahrung mit Komponenten, Styling, Webanwendungen
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### **Backend 🤖**
-- Java, Spring (Boot, JPA, Web, Lombok), SQL (PostgreSQL)  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+### **Datenbanken**
+- PostgreSQL, SQL  
+- Erfahrung mit relationalem Datenmodell, Queries, ORM-Integration
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Testing ⚒️**
-- Jest (JavaScript und React), JUnit (Java und Spring)
-- Integrationstests (Backend-Endpunkte mit Postman)
+### **Testing**
+- Jest (für JavaScript & React)
+- JUnit (für Java & Spring)
+- Integrationstests mit Postman (z. B. für REST-Endpunkte)
 
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Tools 🛠️**
+
+### **🛠 Tools**
 - Docker, Git, GitHub, Figma
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,18 +57,16 @@ Hi! Ich bin Melina, eine Entwicklerin mit Begeisterung für Frontend, Backend un
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### **Sonstiges ✨**
-- Grundkenntnisse in Python und C#
+
+### **✨ Sonstiges**
+- Grundkenntnisse in Python
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ### **Zukünftige Ziele 🚀**
 - Einarbeitung in Spring Security und fortgeschrittene Sicherheitskonzepte
-- Weitere Einarbeitung in C# und .NET
 - Optimierung meines aktuellen Tech-Stacks
-- Einarbeitung in React Testing Library für React
 
 ## 🚀 **Projekte**
 
