@@ -7,13 +7,14 @@ Hi! Ich bin Melina, eine Entwicklerin mit Begeisterung für Frontend, Backend un
 ## 🔧 **Tech-Stack**
 
 ### **C# / .NET**
-- C#, .NET, Blazor  
+- C#, .NET, Blazor, WinUI3, WPF  
 - Erfahrungen mit WebAssembly, Server-Side Blazor, Razor Components
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-
+![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-68217A.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ### **Java / Spring**
 - Java, Spring Boot, Spring Web, JPA, Lombok  
