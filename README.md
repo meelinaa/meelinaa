@@ -7,12 +7,11 @@ Hi! Ich bin Melina, eine Entwicklerin mit Begeisterung für Frontend, Backend un
 ## 🔧 **Tech-Stack**
 
 ### **C# / .NET**
-- C#, .NET, Blazor, WinUI3, WPF  
+- C#, .NET, WinUI3, WPF  
 - Erfahrungen mit WebAssembly, Server-Side Blazor, Razor Components
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-68217A.svg?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -66,33 +65,17 @@ Hi! Ich bin Melina, eine Entwicklerin mit Begeisterung für Frontend, Backend un
 
 
 ### **Zukünftige Ziele 🚀**
-- Einarbeitung in Spring Security und fortgeschrittene Sicherheitskonzepte
 - Optimierung meines aktuellen Tech-Stacks
 
 ## 🚀 **Projekte**
 
 ### 📈 **Auro - Trading Plattform**  
-Ich habe **Broker Auro**, eine interaktive Trading-Anwendung zur Verwaltung von Aktienportfolios, entwickelt. Die Anwendung ermöglicht es Nutzern, Aktien zu suchen, deren Live-Daten abzurufen sowie Transaktionen mit fiktivem Geld durchzuführen.  
-
-**Features:**  
-- **Live-Daten** durch Web-Scraping  
-- **Frontend-Funktionen** zum Kaufen und Verkaufen von Aktien  
-- **Portfolio-Analysen** zur Darstellung der Performance  
-- Anzeige von **Transaktionen** und **Portfolio-Details** in einer übersichtlichen Ansicht  
-- Integration von **Unit-Tests** für Stabilität und Qualität  
+Ich habe **Broker Auro**, eine interaktive Trading-Anwendung zur Verwaltung von Aktienportfolios, entwickelt. Die Anwendung ermöglicht es Nutzern, Aktien zu suchen, deren Live-Daten abzurufen sowie Transaktionen mit fiktivem Geld durchzuführen.   
 
 👉 [Zum Repository](https://github.com/meelinaa/Auro)
 
 ### 💓 **Echo – Health Tracker**  
-Ich entwickle aktuell **Echo**, eine Fullstack-Anwendung zur Erfassung und Analyse von Gesundheitsdaten. Die App ermöglicht es Nutzern, ihre täglichen mentalen und körperlichen Werte zu speichern und langfristig auszuwerten.  
-
-**Features:**  
-- **Erfassung** von täglichen Gesundheitsdaten (Schlaf, Sport, Gedanken, Stimmung etc.)  
-- **Backend mit Java & Spring Boot** für schnelle und sichere Datenverarbeitung  
-- **Datenbank mit PostgreSQL (Docker-Container)** zur Speicherung und Verwaltung
-- Integration von **Unit-Tests** für Stabilität und Qualität 
-- **Frontend mit React** für eine intuitive Benutzererfahrung (in Entwicklung)
-- **Detaillierte Analysen** zur Auswertung und Visualisierung von Entwicklungen (in Entwicklung)
+Ich entwickle aktuell **Echo**, eine Fullstack-Anwendung zur Erfassung und Analyse von Gesundheitsdaten. Die App ermöglicht es Nutzern, ihre täglichen mentalen und körperlichen Werte zu speichern und langfristig auszuwerten. 
 
 👉 [Zum Repository](https://github.com/meelinaa/Echo)
 
