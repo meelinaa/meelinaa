@@ -35,7 +35,7 @@ Personal news digest service with scheduled delivery and profile management.
 - **Architecture:** Hexagonal (ports-and-adapters) with clear domain boundaries
 - **Highlights:** JWT authentication with refresh token rotation, email verification flows, scheduled background jobs, Testcontainers integration tests, OpenTelemetry observability
 
-### [Elementum][(https://github.com/meelinaa/Elementum)
+### [Elementum](https://github.com/meelinaa/Elementum)
 Full-stack precious metal price tracking application demonstrating clean separation of concerns.
 
 - **Stack:** ASP.NET Core REST API, MySQL, Docker, EF Core
