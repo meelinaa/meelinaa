@@ -49,12 +49,6 @@ Offline-first hiking app with GPS tracking and server synchronization.
 - **Focus:** Offline-first architecture with delta sync engine for eventual consistency
 - **Challenge:** Building a distributed sync system similar to Git/Dropbox conflict resolution
 
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=meelinaa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meelinaa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melina-kiefer-079370239/)
