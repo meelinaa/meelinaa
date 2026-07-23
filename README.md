@@ -6,9 +6,6 @@
 
 I'm a software developer specializing in .NET and ASP.NET Core. I'm completing my apprenticeship as a Software Developer (originally 3 years, completed in 1.5) and will be available for full-time positions starting February 2027.
 
-📍 **Location:** Germany, Switzerland, or Remote  
-🎯 **Currently working on:** Hikr — an offline-first hiking app with .NET MAUI and delta sync capabilities
-
 ## 🛠️ Tech Stack
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -42,12 +39,17 @@ Full-stack precious metal price tracking application demonstrating clean separat
 - **Architecture:** Layered architecture with dedicated API, background worker service, and CLI client
 - **Highlights:** Health checks, versioned API endpoints, background price ingestion, Docker Compose deployment
 
-### [Hikr](https://github.com/meelinaa/Hikr) 🚧 *In Development*
-Offline-first hiking app with GPS tracking and server synchronization.
+### [Warden](https://github.com/meelinaa/Warden)
+Resilient service monitor and failover orchestrator for background services, containers and endpoints.
+- **Stack:** .NET 10, Stateless, Docker.DotNet, Polly, Serilog
+- **Architecture:** DI-driven monitor factory pattern with clear separation between worker, monitor targets and state machine
+- **Highlights:** Automated failover via state machine (Healthy/Failover/Recovering), Windows Service and Docker container monitoring, HTTP health checks, resilient SMTP notifications with exponential backoff retries
 
-- **Stack:** .NET MAUI (mobile), ASP.NET Core (backend)
-- **Focus:** Offline-first architecture with delta sync engine for eventual consistency
-- **Challenge:** Building a distributed sync system similar to Git/Dropbox conflict resolution
+### [DeskDuck](https://github.com/meelinaa/DeskDuck)
+Transparent animated desktop companion combining system monitoring with local AI chat.
+- **Stack:** WinUI 3, RabbitMQ, Ollama/OllamaSharp, Docker
+- **Architecture:** Vertical Slice Architecture with feature-based separation, decoupled via message broker
+- **Highlights:** Win32 interop for click-through overlay and global hotkeys, RabbitMQ-based notification pipeline for CPU/RAM/battery/weather alerts, local LLM chat with model switching, unit tests with xUnit and Moq
 
 ## 🤝 Let's Connect
 
