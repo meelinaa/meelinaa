@@ -11,6 +11,8 @@ For architecture I pick whatever fits the actual problem. Sometimes that's Hexag
 
 Code quality matters just as much to me as working features. A feature built on messy code stands on thin stilts: it works until it doesn't, and then it's expensive to fix. I'd rather ship less and have it hold up.
 
+I like working with current tech, .NET's latest versions, up-to-date libraries and patterns, and actually stand behind those choices instead of just following trends. That said, legacy code doesn't scare me either: plenty of real work is reading and carefully changing something someone else wrote years ago, and I'm just as comfortable there.
+
 ## Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
