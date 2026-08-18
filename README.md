@@ -39,7 +39,7 @@ Problem: tracking precious metal prices over time (per metal, per purity, histor
 
 **Stack:** ASP.NET Core, MySQL, EF Core, Docker.
 
-Versioned endpoints, flexible queries (latest, by symbol, by date range, aggregated), karat and trading views, health checks, Docker Compose deployment. Currently reworking the public-facing side: prices are now served at [api.edelmetalle.de/public.json](https://api.edelmetalle.de/public.json), and the ingestion/aggregation logic has been revised. The repo README hasn't caught up to that yet, but it's still accurate as an architecture reference.
+Versioned endpoints, flexible queries (latest, by symbol, by date range, aggregated), trading views, health checks, Docker Compose deployment.
 
 ### [Warden](https://github.com/meelinaa/Warden)
 Problem: when a critical background service crashes, someone has to notice and switch to a backup, often manually and often too late. Warden watches Windows Services, Docker containers and HTTP endpoints and fails over to a backup on its own.
